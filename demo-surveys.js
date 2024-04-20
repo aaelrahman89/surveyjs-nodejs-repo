@@ -1,6 +1,6 @@
 const surveys = [{
   "id": "1",
-  "name": "Product Feedback Survey testtttyyy",
+  "name": "Product Feedback Survey",
   "json": {
     "pages": [{
       "elements": [{
